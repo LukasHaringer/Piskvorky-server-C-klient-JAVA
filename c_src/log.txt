@@ -1,0 +1,154 @@
+Hrac: "Hari" uspesne pripojen.
+Posilam pro: "Hari" zprava: 1|a|0| 
+
+Prijato od: "Hari" 	zprava: 2|v|
+Hrac: "afsasd" uspesne pripojen.
+Posilam pro: "afsasd" zprava: 1|a|0| 
+
+Prijato od: "afsasd" 	zprava: 2|b
+Posilam pro: "afsasd" zprava: 2|b|1| 
+Posilam pro: "afsasd" zprava: 3|a|1|1|afsasd|| 
+Posilam pro: "Hari" zprava: 2|a|1|1|afsasd|| 
+
+Prijato od: "Hari" 	zprava: 3|c|1
+Posilam pro: "afsasd" zprava: 4|c|1|Hari| 
+Posilam pro: "Hari" zprava: 3|c|1| 
+Posilam pro: "afsasd" zprava: 5|i|1| 
+Posilam pro: "Hari" zprava: 4|i|0| 
+Posilam pro: "Hari" zprava: 5|a|0| 
+Posilam pro: "afsasd" zprava: 6|a|0| 
+
+Prijato od: "afsasd" 	zprava: 3|g|9|6
+Posilam pro: "afsasd" zprava: 7|g|1|9|6| 
+Posilam pro: "Hari" zprava: 6|l|9|6| 
+
+Prijato od: "Hari" 	zprava: 4|g|11|11
+Posilam pro: "Hari" zprava: 7|g|1|11|11| 
+Posilam pro: "afsasd" zprava: 8|l|11|11| 
+
+Prijato od: "afsasd" 	zprava: 4|g|14|10
+Posilam pro: "afsasd" zprava: 9|g|1|14|10| 
+Posilam pro: "Hari" zprava: 8|l|14|10| 
+
+Prijato od: "Hari" 	zprava: 5|g|7|9
+Posilam pro: "Hari" zprava: 9|g|1|7|9| 
+Posilam pro: "afsasd" zprava: 10|l|7|9| 
+
+Prijato od: "afsasd" 	zprava: 5|g|14|6
+Posilam pro: "afsasd" zprava: 11|g|1|14|6| 
+Posilam pro: "Hari" zprava: 10|l|14|6| 
+
+Prijato od: "Hari" 	zprava: 6|g|8|8
+Posilam pro: "Hari" zprava: 11|g|1|8|8| 
+Posilam pro: "afsasd" zprava: 12|l|8|8| 
+
+Prijato od: "afsasd" 	zprava: 6|g|13|3
+Posilam pro: "afsasd" zprava: 13|g|1|13|3| 
+Posilam pro: "Hari" zprava: 12|l|13|3| 
+
+Prijato od: "afsasd" 	zprava: 7|e|
+Posilam pro: "afsasd" zprava: 14|k|2|| 
+Posilam pro: "Hari" zprava: 13|k|1|| 
+
+Prijato od: "afsasd" 	zprava: 8|b
+Posilam pro: "afsasd" zprava: 15|b|1| 
+Posilam pro: "afsasd" zprava: 16|a|1|2|afsasd|| 
+Posilam pro: "Hari" zprava: 14|a|1|2|afsasd|| 
+
+Prijato od: "Hari" 	zprava: 7|c|2
+Posilam pro: "afsasd" zprava: 17|c|1|Hari| 
+Posilam pro: "Hari" zprava: 15|c|1| 
+Posilam pro: "afsasd" zprava: 18|i|1| 
+Posilam pro: "Hari" zprava: 16|i|0| 
+Posilam pro: "Hari" zprava: 17|a|0| 
+Posilam pro: "afsasd" zprava: 19|a|0| 
+
+Prijato od: "afsasd" 	zprava: 9|g|11|2
+Posilam pro: "afsasd" zprava: 20|g|1|11|2| 
+Posilam pro: "Hari" zprava: 18|l|11|2| 
+
+Prijato od: "Hari" 	zprava: 8|g|7|9
+Posilam pro: "Hari" zprava: 19|g|1|7|9| 
+Posilam pro: "afsasd" zprava: 21|l|7|9| 
+
+Prijato od: "afsasd" 	zprava: 10|g|9|12
+Posilam pro: "afsasd" zprava: 22|g|1|9|12| 
+Posilam pro: "Hari" zprava: 20|l|9|12| 
+
+Prijato od: "Hari" 	zprava: 9|g|11|10
+Posilam pro: "Hari" zprava: 21|g|1|11|10| 
+Posilam pro: "afsasd" zprava: 23|l|11|10| 
+
+Prijato od: "afsasd" 	zprava: 11|g|14|11
+Posilam pro: "afsasd" zprava: 24|g|1|14|11| 
+Posilam pro: "Hari" zprava: 22|l|14|11| 
+
+Prijato od: "Hari" 	zprava: 10|g|8|5
+Posilam pro: "Hari" zprava: 23|g|1|8|5| 
+Posilam pro: "afsasd" zprava: 25|l|8|5| 
+
+Prijato od: "afsasd" 	zprava: 12|g|14|6
+Posilam pro: "afsasd" zprava: 26|g|1|14|6| 
+Posilam pro: "Hari" zprava: 24|l|14|6| 
+
+Prijato od: "Hari" 	zprava: 11|g|2|5
+Posilam pro: "Hari" zprava: 25|g|1|2|5| 
+Posilam pro: "afsasd" zprava: 27|l|2|5| 
+
+Prijato od: "afsasd" 	zprava: 13|g|11|13
+Posilam pro: "afsasd" zprava: 28|g|1|11|13| 
+Posilam pro: "Hari" zprava: 26|l|11|13| 
+
+Prijato od: "Hari" 	zprava: 12|g|9|13
+Posilam pro: "Hari" zprava: 27|g|1|9|13| 
+Posilam pro: "afsasd" zprava: 29|l|9|13| 
+
+Prijato od: "afsasd" 	zprava: 14|g|10|13
+Posilam pro: "afsasd" zprava: 30|g|1|10|13| 
+Posilam pro: "Hari" zprava: 28|l|10|13| 
+
+Prijato od: "Hari" 	zprava: 13|g|5|13
+Posilam pro: "Hari" zprava: 29|g|1|5|13| 
+Posilam pro: "afsasd" zprava: 31|l|5|13| 
+
+Prijato od: "afsasd" 	zprava: 15|g|12|13
+Posilam pro: "afsasd" zprava: 32|g|1|12|13| 
+Posilam pro: "Hari" zprava: 30|l|12|13| 
+
+Prijato od: "Hari" 	zprava: 14|g|6|13
+Posilam pro: "Hari" zprava: 31|g|1|6|13| 
+Posilam pro: "afsasd" zprava: 33|l|6|13| 
+
+Prijato od: "afsasd" 	zprava: 16|g|13|13
+Posilam pro: "afsasd" zprava: 34|g|1|13|13| 
+Posilam pro: "Hari" zprava: 32|l|13|13| 
+
+Prijato od: "Hari" 	zprava: 15|g|7|13
+Posilam pro: "Hari" zprava: 33|g|1|7|13| 
+Posilam pro: "afsasd" zprava: 35|l|7|13| 
+
+Prijato od: "afsasd" 	zprava: 17|g|14|13
+Posilam pro: "afsasd" zprava: 36|g|1|14|13| 
+Posilam pro: "Hari" zprava: 34|l|14|13| 
+Posilam pro: "afsasd" zprava: 37|k|4|| 
+Posilam pro: "Hari" zprava: 35|k|3|| 
+
+Prijato od: "afsasd" 	zprava: 18|v|
+
+Prijato od: "Hari" 	zprava: 16|v|
+
+Prijato od: "afsasd" 	zprava: 19|v|
+
+Prijato od: "Hari" 	zprava: 17|v|
+
+Prijato od: "afsasd" 	zprava: 20|v|
+
+Prijato od: "Hari" 	zprava: 18|v|
+
+Prijato od: "afsasd" 	zprava: 21|v|
+
+Prijato od: "Hari" 	zprava: 19|v|
+
+Prijato od: "Hari" 	zprava: 20|v|
+
+Prijato od: "afsasd" 	zprava: 22|v|
